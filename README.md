@@ -76,7 +76,7 @@ total    6
 
 ## Documentation
 The manuals for 1st Edition UNIX are available here:
-<https://www.bell-labs.com/usr/dmr/www/1stEdman.html>,
+<https://web.archive.org/web/20250114151916/https://www.bell-labs.com/usr/dmr/www/1stEdman.html>,
 <https://www.tuhs.org/Archive/Distributions/Research/Dennis_v1/UNIX_ProgrammersManual_Nov71.pdf>, and
 <https://man.cat-v.org/unix-1st/>.
 
@@ -91,7 +91,7 @@ The C compiler from 2nd Edition UNIX has been installed and is operational.
 However, it supports a very early dialect of C. The most relevant reference for
 this version of the language is as follows, although it may be approximately
 two years more advanced than the dialect in question:
-<https://www.bell-labs.com/usr/dmr/www/cman74.pdf>
+<https://web.archive.org/web/20240425202413/https://www.bell-labs.com/usr/dmr/www/cman74.pdf>
 
 The userland binaries originate from a period between the 1st and 2nd Editions
 of UNIX. The manuals from the 2nd Edition may also be useful:

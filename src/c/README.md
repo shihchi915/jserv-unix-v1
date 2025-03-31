@@ -1,7 +1,7 @@
 # Early C compiler
 
 This directory contains the last1120c C compiler, as described by Dennis Ritchie
-on his web page: <https://www.bell-labs.com/usr/dmr/www/primevalC.html>.
+on his web page: <https://web.archive.org/web/20250121035636/https://www.bell-labs.com/usr/dmr/www/primevalC.html>.
 
 You can use the Apout emulator and the C compiler from the s2 tape to recompile
 the last1120c compiler. After installing the new compiler binaries, last1120c
